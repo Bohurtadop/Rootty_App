@@ -1,4 +1,4 @@
-## Rootty app
+# Rootty app
 
 Flutter app for Rootty project.
 
